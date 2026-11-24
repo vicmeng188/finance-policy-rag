@@ -1,0 +1,23 @@
+﻿"question","expectedResponse","actualResponse","Credits used","testMethodType_1","result_1","passingScore_1","explanation_1","testMethodType_2","result_2","passingScore_2","explanation_2"
+"I got an upset stomach while travelling and bought some medicine. Can I claim it?","I could not find anything about claiming medicine in the policy documents. Please contact the Finance team.","I couldn't find anything in the policy documents on whether you can claim medicine or other medical costs, so I can't say yes or no. I'd rather not guess.
+
+I checked these documents:
+- **Domestic Travel Policy FY2027 (FIN-TRV-001)**: Sections 3–7 cover accommodation, meals, ground transport, claims and expenses above limits. None of them mention medical items or medicine. [1]
+- **International Travel Policy (FIN-TRV-002)**: Sections 3–6 cover accommodation, meals, claims and expenses above limits. None of them mention medical items or medicine. [2]
+- **Delegation of Authority (FIN-DOA-001)**: Section 2 covers approvals for expenses above policy limits. It says nothing about medical costs. [3]
+
+Please contact the Finance team to confirm whether medicine is claimable before you submit.
+
+If you do submit a claim, these deadlines and receipt rules apply:
+- **Domestic trips**: Claims must be submitted in the expense system within 30 days of the end of the trip. An itemised receipt is required for every item over $10 (Domestic Travel Policy FY2027, Section 6). [1]
+- **International trips**: Claims must be submitted within 30 days of returning to Australia (International Travel Policy, Section 5). [2]","1.81629","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds extra details about the policy documents and claim procedures.","CustomLabels","Pass",,"Pass - Pass; The agent does not use any outdated FY2026 limits or rules. It does not calculate totals or give a yes/no reimbursement answer. It only says the policy does not mention medicine and advises contacting the Finance team, which is allowed. No specific person or contact details are given. All information aligns with FY2027 policy references."
+"What's the reimbursement rate for a hire car?","I could not find a rule for hire cars in the policy documents. Please contact the Finance team.","Both failed; retry.
+
+I couldn't find a reimbursement rate for a hire car in the policy documents. I read all four documents in full: Domestic Travel Policy FY2026, Domestic Travel Policy FY2027, International Travel Policy and Delegation of Authority. None of them mentions hire cars, car rental or rental vehicles. (The search tool returned errors, so I opened each document directly.)
+
+The nearest rules are for other kinds of ground transport. These don't say they apply to hire cars, so I haven't applied them to one:
+- **Private vehicle:** the rate is $0.85 per kilometre in Domestic Travel Policy FY2027, section 5 (Ground transport), effective 1 July 2026. The FY2026 version, section 5, shows $0.80 per kilometre.
+- **Taxis and rideshare:** these are claimable between the airport, accommodation and business locations (Domestic Travel Policy FY2026 and FY2027, section 5).
+- **Bookings:** flights and accommodation must be booked through TravelHub (Domestic Travel Policy, section 2). The documents don't say whether hire cars are covered by this.
+
+Please contact the Finance team to confirm whether hire cars can be claimed and at what rate.","1.8427799999999999","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says it couldn't find a rule for hire cars and suggests contacting Finance, just like the Expected response, but it adds extra details about the search and related transport rules.","CustomLabels","Pass",,"Pass - Pass; The agent correctly cites the FY2027 rate of $0.85 per km for private vehicles and notes that the FY2026 rate of $0.80 is from a superseded policy. It does not present the old rate as current, does not calculate totals, does not give a yes/no reimbursement conclusion, and only mentions a generic 'Finance team' contact. All listed fail conditions are absent."

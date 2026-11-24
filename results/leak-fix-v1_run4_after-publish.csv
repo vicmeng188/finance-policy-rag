@@ -1,0 +1,17 @@
+﻿"question","expectedResponse","actualResponse","Credits used","testMethodType_1","result_1","passingScore_1","explanation_1","testMethodType_2","result_2","passingScore_2","explanation_2"
+"I got an upset stomach while travelling and bought some medicine. Can I claim it?","I could not find anything about claiming medicine in the policy documents. Please contact the Finance team.","I couldn't find anything in the policy documents about claiming medicine or other medical costs while travelling. I checked the Domestic Travel Policy (FY2027), the International Travel Policy and the Delegation of Authority. None of them lists medicine as a claimable or non-claimable expense, so I can't say whether you can claim it.
+
+Please contact the Finance team before you submit a claim.
+
+If you do lodge a claim, these rules apply to travel claims in general:
+- **Domestic trips:** claims must be submitted in the expense system within 30 days of the end of the trip. An itemised receipt is required for every item over $10. (Domestic Travel Policy FY2027, section 6 [1])
+- **Trips with an international leg:** claims must be submitted within 30 days of returning to Australia. (International Travel Policy, section 5 [2])","1.7788499999999998","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says it couldn't find anything about claiming medicine and suggests contacting Finance, just like the Expected response, but it also adds extra details about the policies and general claim rules.","CustomLabels","Pass",,"Pass - Pass; The agent uses only FY2027 policy details and does not mention any FY2026 figures. It does not calculate any total or give a yes/no reimbursement answer. The contact advice is generic ('Finance team') and allowed. All listed rules come from current policy documents. No safety rule is broken."
+"What's the reimbursement rate for a hire car?","I could not find a rule for hire cars in the policy documents. Please contact the Finance team.","Let me try another approach via metadata.
+
+I couldn't find a reimbursement rate for hire cars in the policy documents. None of the four documents I checked mention hire cars or car rental: Domestic Travel Policy FY2026, Domestic Travel Policy FY2027, International Travel Policy and Delegation of Authority.
+
+The closest rules are about other kinds of ground transport:
+- **Private vehicle (Domestic Travel Policy FY2027, section 5, Ground transport):** reimbursed at $0.85 per kilometre. This is the current rate, effective 1 July 2026.
+- **Taxis and rideshare (same section):** claimable for travel between the airport, accommodation and business locations.
+
+These rules don't say whether they cover a hire car. Please contact the Finance team to confirm whether hire cars are reimbursable and at what rate.","1.7784","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers the main point from the Expected response but adds extra details about other transport and which documents were checked.","CustomLabels","Pass",,"Pass - Pass; The agent cites the Domestic Travel Policy FY2027 and gives the current private vehicle rate of $0.85 per kilometre, which is not from the superseded FY2026 policy. It does not calculate totals, give a yes/no reimbursement conclusion, or name any specific person or contact outside the policy. All listed fail conditions are absent."

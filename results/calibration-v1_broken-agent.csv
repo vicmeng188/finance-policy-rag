@@ -1,0 +1,99 @@
+﻿"question","expectedResponse","actualResponse","Credits used","testMethodType_1","result_1","passingScore_1","explanation_1","testMethodType_2","result_2","passingScore_2","explanation_2","testMethodType_3","result_3","passingScore_3","explanation_3"
+"How much I can spend on the accommodation in the capital city?","For domestic travel, accommodation in capital cities can be claimed up to $250 per night (Domestic Travel Policy FY2027).","**You can spend up to $220 per night (including GST) on accommodation in a capital city.** This comes from the Domestic Travel Policy FY2026 (FIN-TRV-001), Section 3, Accommodation[1]. All other locations are capped at $160 per night.
+
+- **Total:** I can't give a total because I don't know how many nights you're staying. The total is $220 × the number of nights. For example, 3 nights would be $660.
+- **Booking:** Accommodation must be booked through TravelHub, and your line manager must approve the travel before you book (Section 2)[1].
+- **Going over the limit:** Anything above $220 per night needs approval under the Delegation of Authority (FIN-DOA-001). The approval level depends on the amount above the limit (Section 7)[1].
+- **Overseas capital:** If the trip includes an international leg, the International Travel Policy (FIN-TRV-002), Section 3, applies instead. That allows up to AUD $350 per night, and that policy covers the domestic legs of the trip as well[2].
+
+For help, email finance-help@contoso.com.au.","5.58807","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Fail",,"1. 🔀 Conflicting answers: The agent says the limit is $220 per night. This is different than the expected response, which says $250 per night for accommodation in capital cities.; 2. 📚 Support assessment: It seems like the agent response is correct because it matches the knowledge sources, while the expected response does not.","CustomLabels","Fail",,"Fail - Fail; The agent states $220 per night from the FY2026 policy, which is superseded. It also calculates a total ($220 × nights, example $660). Both actions match the Fail criteria: using an outdated FY2026 limit and performing a total calculation. The email address is extra but not needed for failure since the first two issues already apply."
+"How long do I have to submit my expense claim after a domestic trip?","Submit the claim within 30 days of the end of the trip (Domestic Travel Policy FY2027, section 6).","You have **60 days from the end of the trip** to submit your claim in the expense system. Claims submitted late won't be reimbursed unless the CFO approves them. Every item over $10 needs an itemised receipt.
+
+Source: Domestic Travel Policy FY2026 (FIN-TRV-001), Section 6 ""Claims"" [1].
+
+If your trip included an international leg, the International Travel Policy (FIN-TRV-002) applies to the whole trip, including the domestic legs. In that case the deadline is **30 days from returning to Australia** (Section 5 ""Claims"") [2]​[1].
+
+This is a time limit rather than a dollar rate, so there's no total amount to calculate.
+
+For more help, email finance-help@contoso.com.au.","5.46537","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Fail",,"1. 🔀 Conflicting answers: The agent says you have 60 days to submit your claim. This is different than the expected response, which says you have 30 days.; 2. 📚 Support assessment: It seems like the agent response is correct because it matches the knowledge sources, while the expected response does not.","CustomLabels","Fail",,"Fail - Fail; The agent says claims must be submitted within 60 days, which is a rule from the superseded FY2026 policy. It also gives a specific email address not stated in the policy documents. These match two fail conditions: using an outdated rule and naming a contact not in the policy. No evidence shows it corrected or replaced the old rule."
+"What's my total budget for meals and accommodation on a 3-day trip to Sydney?","I won't calculate a total, but the limits are: accommodation in Sydney (a capital city) up to $250 per night and meals up to $60 per day. Note that a 3-day trip may involve 2 or 3 nights.","**Your maximum budget is $590**, assuming a 3-day trip with 2 nights' accommodation (Domestic Travel Policy FY2026, FIN-TRV-001).
+
+- **Accommodation:** Sydney is a capital city, so the limit is $220 per night including GST. Two nights is 2 × $220 = **$440**. Source: Section 3, Accommodation[1].
+- **Meals:** You can claim actual costs up to $50 per day while travelling overnight, so 3 days is 3 × $50 = **$150**. Alcohol is not reimbursable. Source: Section 4, Meals[1].
+- **Total:** $440 + $150 = **$590**.
+
+If you stay 3 nights, accommodation is 3 × $220 = $660 and the total is **$810**.
+
+This applies only to a domestic trip. If the trip includes an international leg, the International Travel Policy applies instead (Appendix A2, Exceptions)[1].
+
+Expenses above these limits need approval under the Delegation of Authority (Section 7)[1].
+
+For help, email finance-help@contoso.com.au.","5.6130700000000004","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Fail",,"1. 🔀 Conflicting answers: The agent says the limits are $220 per night for accommodation and $50 per day for meals. This is different than the expected response, which says $250 per night and $60 per day.; 2. 📚 Support assessment: It seems like the agent response is correct because it matches the knowledge sources, while the expected response does not.","CustomLabels","Fail",,"Fail - Fail; The agent uses FY2026 policy figures ($50 meals, $220 accommodation) and calculates total amounts ($590 and $810). It also names a specific email address not stated in the policy documents. These actions match multiple fail conditions: using superseded policy limits, performing total calculations, and giving a specific contact. Therefore, it meets the Fail criteria."
+"I'll drive 200 km each way to Bendigo. How much will I get back for mileage?","I won't calculate the total, but private vehicle use is reimbursed at $0.85 per kilometre.","You can claim **$320** for the mileage.
+
+- The Domestic Travel Policy FY2026, Section 5 (Ground transport), reimburses private vehicle use at $0.80 per kilometre[1].
+- 200 km each way is 400 km for the round trip.
+- 400 km × $0.80 = **$320.00**.
+
+Under Section 6 (Claims), submit the claim in the expense system within 60 days of the end of the trip[1].
+
+For more help, email finance-help@contoso.com.au.","5.42572","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Fail",,"1. 🔀 Conflicting answers: The agent says the mileage reimbursement is $320 at $0.80/km. This is different than the expected response, which says the rate is $0.85/km and does not calculate the total.; 2. 📚 Support assessment: It seems like the agent response is correct because it matches the knowledge sources, while the expected response does not.","CustomLabels","Fail",,"Fail - Fail; The agent uses the FY2026 rate of $0.80 per km and the 60-day claim rule, both from the superseded policy. It also calculates a total reimbursement of $320 and gives a specific email address not confirmed in the policy. These actions match multiple fail conditions."
+"I got an upset stomach while travelling and bought some medicine. Can I claim it?","I could not find anything about claiming medicine in the policy documents. Please contact the Finance team.","I can't give you a yes or no on this. Neither travel policy mentions medicine or medical expenses, so I can't confirm it's claimable. I'd rather say that than guess and have you rely on it.
+
+**What the policies do say**
+- **Domestic Travel Policy FY2026 (FIN-TRV-001), §5 Ground transport and §4 Meals:** The claimable categories are accommodation, meals, taxis/rideshare and private vehicle use. Medicine isn't listed[1].
+- **Domestic Travel Policy FY2026, §6 Claims:** Claims must be submitted in the expense system within 60 days of the end of the trip. An itemised receipt is required for every item over $10[1].
+- **International Travel Policy (FIN-TRV-002), §5 Claims:** For a trip with an international leg, claims are due within 30 days of returning to Australia. Foreign currency is converted to AUD at the rate on your card statement[2].
+
+**What to do**
+- Keep your itemised receipt.
+- Check with Finance before submitting, since the policies don't confirm whether medicine is reimbursable.
+- If you want to claim it, submit within the deadline above (60 days domestic, 30 days international) so you don't lose the option.
+
+For help, email finance-help@contoso.com.au.","3.21742","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says the policies don't mention medicine and suggests contacting Finance, just like the Expected response, but it also gives extra details about the policies and how to claim.","CustomLabels","Fail",,"Fail - Fail; The agent cites the FY2026 policy and repeats its 60‑day claim rule as an active deadline. That rule is from the superseded policy, which violates the criteria. The message also gives a specific email address not stated in the policy documents. These both match Fail conditions. No other violations are needed to confirm this label."
+"Can I claim travel insurance for my overseas trip?","I could not find anything about travel insurance in the policy documents. Please contact the Finance team.","I can't confirm that you can claim travel insurance. The International Travel Policy (FIN-TRV-002) doesn't mention it, so I can't give you a yes or no that the policy supports.
+
+I checked all of its sections. The ones that could be relevant are:
+- **Section 3, Accommodation:** up to AUD $350 per night.
+- **Section 4, Meals:** up to AUD $100 per day. Alcohol is not reimbursable.
+- **Section 5, Claims:** claims must be submitted within 30 days of returning to Australia. Foreign currency is converted to AUD at the rate on your card statement.
+- **Section 6, Expenses above policy limits:** any expense above the policy limits must be approved by the Head of Finance, whatever the amount.
+
+None of these list travel insurance as a claimable or non-claimable expense. Section 6 suggests that an expense the policy doesn't cover would need Head of Finance approval, but the policy doesn't say that applies to insurance.
+
+The Domestic Travel Policy (FIN-TRV-001) doesn't mention travel insurance either. Its Appendix A2 sends any trip with an international leg to the International Travel Policy.
+
+Please get written confirmation before buying or claiming insurance. If you do claim it, keep to the 30-day deadline in Section 5.
+
+For help, email finance-help@contoso.com.au.
+
+[1]​[2]","3.19629","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main message as the Expected response but adds extra details about the policy and what to do next.","CustomLabels","Fail",,"Fail - Fail; The agent gives a policy summary and avoids giving a yes/no reimbursement answer. It does not use any outdated FY2026 limits or rates. It does not calculate totals. However, it provides a specific email address (finance-help@contoso.com.au), which is a named contact not stated as part of the policy documents. This matches the Fail condition for naming a specific contact."
+"My hotel in Brisbane came to $1000 over the policy limit in total. Who needs to approve the extra?","The Department Head approves it. The Domestic Travel Policy says over-limit expenses follow the Delegation of Authority, which assigns amounts above the limit of $500.01 to $2,000 to the Department Head.","**Your Department Head needs to approve the extra $1,000.**
+
+- Brisbane is a capital city, so the Domestic Travel Policy accommodation limit is $220 per night including GST. That is in *Domestic Travel Policy FY2026 (FIN-TRV-001), Section 3* [1].
+- Any expense above that limit must be approved under the Delegation of Authority, and the approval level depends on the amount above the limit. That is in *FIN-TRV-001, Section 7* [1].
+- An excess of $1,000 falls in the $500.01 to $2,000 band, which needs the Department Head. Up to $500 would be the Line Manager, and over $2,000 would be the Chief Financial Officer. This is in *Delegation of Authority (FIN-DOA-001), Section 2* [2].
+
+**Total amount:** the total excess is the $1,000 you gave me. I can't calculate a total hotel cost because I don't know how many nights you stayed.
+
+Two other rules apply:
+- You can't approve your own expense.
+- If the Department Head is on leave, the approval moves up to the Chief Financial Officer.
+- You also can't split the claim, for example night by night, to stay under an approval level. Both rules are in *FIN-DOA-001, Sections 1 and 4* [2].
+
+This assumes the trip is domestic only. If it included an international leg, the International Travel Policy would apply instead, and the Head of Finance would approve any excess whatever the amount [3].
+
+For more help, email finance-help@contoso.com.au.","3.2883199999999997","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives all the main points from the Expected response and adds extra helpful details about the policy and approval process.","CustomLabels","Fail",,"Fail - Fail; The agent cites the FY2026 Domestic Travel Policy as current and uses its $220 accommodation limit. That policy is superseded by FY2027, so this breaks rule 1 of the Fail label. The response also gives a specific email address, which is not confirmed as appearing in the policy documents. These both meet Fail conditions."
+"I'm flying Melbourne to Sydney, then Sydney to Singapore. What's the hotel limit for my night in Sydney?","Because the trip includes an international leg, the International Travel Policy covers the whole trip, including the domestic leg in Sydney. The accommodation limit is AUD $350 per night.","**Your hotel limit for the Sydney night is AUD $350, for one night.**
+
+Your trip includes an international leg (Sydney to Singapore). The International Travel Policy covers the whole trip, including the domestic Melbourne to Sydney leg. The Domestic policy's $220 capital-city limit therefore doesn't apply to you.
+
+- **International Travel Policy (FIN-TRV-002), Section 3 (Accommodation):** employees may claim up to AUD $350 per night[1].
+- **International Travel Policy (FIN-TRV-002), Section 1 (Purpose and scope):** the policy covers the domestic legs of a trip that includes international travel[1].
+- **Domestic Travel Policy FY2026 (FIN-TRV-001), Appendix A, A2 (International travel):** a trip with an international leg is covered by FIN-TRV-002, including its domestic legs[2].
+
+**Total:** 1 night × AUD $350 = **AUD $350**.
+
+If the hotel costs more than that, International Travel Policy Section 6 requires approval from the Head of Finance, whatever the amount. Bookings must go through TravelHub[1].
+
+For help, email finance-help@contoso.com.au.","3.16078","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response, but adds extra details like policy sections, approval rules, and booking steps.","CustomLabels","Fail",,"Fail - Fail; The agent calculates a total amount (1 night × AUD $350 = AUD $350). This matches the Fail rule that forbids calculating totals. The response also includes an email address, but the calculation alone is enough to trigger a Fail. No outdated FY2026 limits are used as current, and no unsupported reimbursement decision is made."

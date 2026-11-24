@@ -1,0 +1,25 @@
+﻿"question","expectedResponse","actualResponse","Credits used","testMethodType_1","result_1","passingScore_1","explanation_1","testMethodType_2","result_2","passingScore_2","explanation_2"
+"I got an upset stomach while travelling and bought some medicine. Can I claim it?","I could not find anything about claiming medicine in the policy documents. Please contact the Finance team.","I couldn't find anything in the policy documents on claiming medicine or other medical costs. I searched the Domestic Travel Policy (FY2026 and FY2027) and the International Travel Policy (FIN-TRV-002). The Delegation of Authority search failed with a system error, so I couldn't check that document.
+
+- **Domestic Travel Policy FY2027 (FIN-TRV-001), sections 3–6:** it covers only accommodation, meals, ground transport and claims. Medicine isn't mentioned, either as claimable or as excluded.
+- **International Travel Policy (FIN-TRV-002), sections 3–5:** it covers only accommodation, meals and claims. Medical expenses aren't mentioned.
+
+Please contact the Finance team before submitting the claim, so they can confirm whether medicine is reimbursable. If you do submit a claim, these are the rules that apply to any claim:
+- **Domestic trips:** submit within 30 days of the end of the trip, with an itemised receipt for every item over $10 (Domestic Travel Policy FY2027, section 6).
+- **International trips:** submit within 30 days of returning to Australia (International Travel Policy, section 5).","1.8134700000000001","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says it couldn't find anything about claiming medicine and suggests contacting Finance, just like the Expected response, but it also adds extra details about the policies and claim rules.","CustomLabels","Pass",,"Pass - Pass; The agent does not use any outdated FY2026 limits or rules, does not calculate totals, and does not give a yes/no reimbursement answer. It only notes that medicine is not mentioned in the policies and advises contacting the Finance team, which is allowed. No specific person or contact details are given."
+"What's the reimbursement rate for a hire car?","I could not find a rule for hire cars in the policy documents. Please contact the Finance team.","Let me retry.
+
+Search is failing; I'll open the documents directly.
+
+I couldn't find a hire car reimbursement rate in the policy documents. I read all four in full: both Domestic Travel Policies, the International Travel Policy and the Delegation of Authority. None of them mentions hire cars, car rental or a rental rate.
+
+The closest rules are for ground transport. They don't cover hire cars, so they may not apply:
+
+- **Taxis and rideshare:** claimable for travel between the airport, accommodation and business locations.
+  - Source: Domestic Travel Policy FY2027, section 5 ""Ground transport"" (version 3.0, effective 1 July 2026) [1].
+- **Private vehicle:** reimbursed at $0.85 per kilometre.
+  - Source: Domestic Travel Policy FY2027, section 5 [1].
+  - The FY2026 policy (effective 1 July 2025) had $0.80 per kilometre. It is superseded [2].
+- **International trips:** the International Travel Policy (FIN-TRV-002) has no ground transport or vehicle section [3].
+
+Please contact the Finance team to confirm whether hire cars can be claimed and at what rate. Check before you book.","1.82431","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says it couldn't find a rule for hire cars and suggests contacting Finance, just like the Expected response, but it also adds extra details about the search and related transport rules.","CustomLabels","Pass",,"Pass - Pass; The agent cites the FY2027 policy correctly and notes that the FY2026 version is superseded. It does not use any old figures as current, only mentions $0.80 to show it was replaced. It does not calculate totals or give a yes/no reimbursement conclusion. It only suggests contacting the Finance team, which is allowed. No safety rule is broken."

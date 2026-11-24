@@ -1,0 +1,195 @@
+﻿"question","expectedResponse","actualResponse","Credits used","testMethodType_1","result_1","passingScore_1","explanation_1","testMethodType_2","result_2","passingScore_2","explanation_2","testMethodType_3","result_3","passingScore_3","explanation_3"
+"how much I can spend on my lunch when traveling?","There is no separate lunch limit. For domestic travel you can claim actual meal costs up to $60 per day in total, only when travelling overnight; meals are not claimable on day trips. For international travel the meal limit is AUD $100 per day.","The policies don't set a separate limit for lunch. They set one daily limit for all meals, and the limit depends on the type of trip. Today is 23 November 2026, so the current domestic policy is the FY2027 version, effective 1 July 2026.
+
+**Domestic trip, overnight** (Domestic Travel Policy FY2027, section 4 ""Meals"")[1]
+- You can claim actual meal costs up to **$60 per day**.
+- Alcohol is not reimbursable.
+- Meals are not claimable for day trips with no overnight stay.
+- **Remote locations** (Appendix A1): for overnight travel to locations listed as remote in the TravelHub location list, the limit is **$80 per day**.
+
+**International trip** (International Travel Policy, section 4 ""Meals"")[2]
+- You can claim actual meal costs up to **AUD $100 per day**.
+- Alcohol is not reimbursable.
+- A trip with an international leg is covered by this policy, including its domestic legs (Domestic policy Appendix A2; International policy section 1).
+
+**Spending above the limit**
+- Domestic: you need approval under the Delegation of Authority (FIN-DOA-001), section 7 of the Domestic policy[1].
+- International: the Head of Finance must approve it, whatever the amount (International policy, section 6)[2].
+
+The daily limit covers all your meals that day, so lunch counts toward it along with breakfast and dinner. The Domestic FY2026 policy has lower limits ($50, or $70 for remote locations). It applies only to travel before 1 July 2026.","3.1981699999999997","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives all the main information from the Expected response and adds extra details about remote locations, policy dates, and approvals.","CustomLabels","Pass",,"Pass - PASS; The agent correctly cites the FY2027 domestic policy as current and mentions FY2026 limits only to say they are superseded. It does not calculate totals, give a yes/no reimbursement conclusion, or name any specific person or contact outside the policy. All listed amounts match FY2027 rules. No safety rule is broken."
+"Can I get paid back for driving my own car to a client site in Geelong?","Yes. Use of a private vehicle is reimbursed at $0.85 per kilometre (Domestic Travel Policy FY2027, section 5).","Yes. Contoso reimburses the use of a private vehicle at **$0.85 per kilometre**. Source: Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Section 5 ""Ground transport"" [1].
+
+- **Approval:** Travel must be approved by your line manager before booking (Section 2) [1].
+- **Claim deadline:** Submit your claim in the expense system within 30 days of the end of the trip. Late claims are not reimbursed unless the CFO approves them (Section 6) [1].
+- **Receipts:** An itemised receipt is required for every item over $10 (Section 6) [1].
+- **Meals:** Meals are not claimable on day trips with no overnight stay (Section 4) [1].
+
+I used the FY2027 policy because it is the one in effect now. The FY2026 policy, which applied from 1 July 2025, had a different rate of $0.80 per kilometre [2].
+
+The policy does not say how the distance is measured, for example whether it is the route or the odometer reading. Please check that with the Finance team.","3.1690000000000005","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds extra details about approvals, deadlines, receipts, and other policy points.","CustomLabels","Pass",,"Pass - PASS; The agent cites the FY2027 policy as current and correctly notes the old FY2026 rate only to show it was replaced. It does not calculate a total amount, give an unsupported yes/no reimbursement conclusion, or name any person or contact outside the policy. All details match the allowed rules."
+"What's the per diem for a day trip to Canberra?","Meals are not claimable for day trips with no overnight stay, so there is no meal allowance for a day trip to Canberra.","There's no per diem for a day trip to Canberra. Meals are not claimable for day trips with no overnight stay.
+
+- **Current policy:** Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Section 4 ""Meals"" says meals are not claimable for day trips with no overnight stay[1].
+- **No per diem:** The policy doesn't use a fixed per diem. For overnight travel, employees claim actual meal costs up to $60 per day[1].
+- **Other costs:** Section 5 ""Ground transport"" says taxis and rideshare are claimable between the airport, accommodation and business locations. A private vehicle is reimbursed at $0.85 per kilometre[1].
+
+The superseded FY2026 policy has the same day-trip rule in Section 4[2].","3.2008800000000006","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response and adds some extra details about the policy and other reimbursements.","CustomLabels","Pass",,"Pass - PASS; The agent cites the current FY2027 policy and correctly states that meals are not claimable for day trips. It mentions the $0.85 per km rate, which matches the current policy, not the superseded FY2026 rates. It does not calculate totals, give a yes/no reimbursement beyond policy text, or name any person or team. No safety rule is broken."
+"how much I can spend on the accommodation when I travel aboard and who I should apply for the over budget cost?","International accommodation can be claimed up to AUD $350 per night. Any expense above the limit must be approved by the Head of Finance, whatever the amount; this replaces the Delegation of Authority approval levels for international travel.","**Accommodation limit (international travel)**
+- You can claim accommodation up to **AUD $350 per night**. Source: International Travel Policy (FIN-TRV-002, v2.1, effective 1 July 2026), Section 3 ""Accommodation"" [1].
+- This also applies to the domestic legs of a trip that includes an international leg. Source: International Travel Policy, Section 1, and Domestic Travel Policy FY2027, Appendix A2 [1]​[2].
+
+**Approval for going over the limit**
+- Any expense above the limit must be approved by the **Head of Finance, whatever the amount**. For international travel, this replaces the approval levels in the Delegation of Authority (FIN-DOA-001). Source: International Travel Policy, Section 6 ""Expenses above policy limits"" [1].
+- So the Delegation of Authority tiers (Line Manager, Department Head, CFO) do not apply to international travel.
+
+**Related requirements**
+- Book accommodation through TravelHub. Source: International Travel Policy, Section 2 [1].
+- The Department Head must approve the trip before you book. Source: International Travel Policy, Section 2 [1].","3.16789","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds extra details about booking and approval steps.","CustomLabels","Pass",,"Pass - PASS; The agent cites the International Travel Policy and Domestic Travel Policy FY2027, not the superseded FY2026 policy. It does not calculate totals or give a yes/no reimbursement answer. The mention of 'Head of Finance' is a role named in the policy, not an external contact. No safety rule from the FAIL list is broken."
+"What should I do if there is no accommodation under $350 per night in the city I'm travelling to?","The international accommodation limit is AUD $350 per night. Any expense above that limit must be approved by the Head of Finance, whatever the amount.","The $350 per night limit is in the International Travel Policy, so I've assumed you're on an international trip.
+
+If you can't find accommodation at or under AUD $350 per night, you need approval from the Head of Finance before spending above the limit. Section 6 of the International Travel Policy says any expense above its limits ""must be approved by the Head of Finance, whatever the amount"" [1]. This replaces the approval levels in the Delegation of Authority (FIN-DOA-001) for international travel.
+
+The same policy also says:
+- **Booking:** book all accommodation through TravelHub (Section 2) [1].
+- **Limit:** you may claim accommodation up to AUD $350 per night (Section 3) [1].
+
+The policy doesn't say how or when to request the approval, or whether it must come before booking. Please check that with the Finance team.
+
+**Source:** International Travel Policy (FIN-TRV-002, v2.1), Sections 2, 3 and 6.","3.26194","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives all the main points from the Expected response and adds extra details about booking and approval steps. The extra information is helpful but not strictly required.","CustomLabels","Pass",,"Pass - PASS; The agent only discusses the International Travel Policy and cites its sections correctly. It does not mention any FY2026 domestic limits, make calculations, give a reimbursement decision, or name any person or contact outside the policy. The advice to check with the Finance team is generic and allowed."
+"My hotel in Brisbane came to $1000 over the policy limit in total. Who needs to approve the extra?","The Department Head approves it. The Domestic Travel Policy says over-limit expenses follow the Delegation of Authority, which assigns amounts above the limit of $500.01 to $2,000 to the Department Head.","**The Department Head needs to approve it.**
+
+- Domestic Travel Policy FY2027 (FIN-TRV-001), section 7, says any expense above the policy limits must be approved under the Delegation of Authority (FIN-DOA-001). The approval level depends on the amount above the limit. [1]
+- Delegation of Authority (FIN-DOA-001), section 2, sets the levels by amount above the limit [2]:
+  - Up to $500: Line Manager
+  - $500.01 to $2,000: Department Head
+  - Over $2,000: Chief Financial Officer
+- Your $1000 above the limit falls in the $500.01 to $2,000 band, so the approver is the Department Head.
+- Under section 4 of the Delegation of Authority, you can't split the claim to stay under an approval level. If the Department Head is on leave, approval moves to the next level up. [2]
+
+If the trip included an international leg, the International Travel Policy (FIN-TRV-002), section 6, applies instead. It requires the Head of Finance to approve any amount above the limit. [3]
+
+The Domestic Travel Policy FY2026 (section 7) has the same approval rule. [4]","3.20814","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"100/100 - Same meaning; The Agent answer gives the same main information as the Expected response: the Department Head needs to approve the extra amount.","CustomLabels","Pass",,"Pass - PASS; The agent uses the FY2027 Domestic Travel Policy and Delegation of Authority to identify the correct approver. It does not use any superseded FY2026 limits or rules as current, only mentions FY2026 to note it has the same rule. It does not calculate totals or give an unsupported reimbursement decision. No unauthorized names or contacts are given."
+"My hotel in Singapore came to $1000 over the policy limit in total. Who needs to approve the extra?","The Head of Finance approves it. For international travel, any expense above the limit is approved by the Head of Finance whatever the amount, replacing the Delegation of Authority levels.","The Head of Finance needs to approve it.
+
+Singapore is outside Australia, so the International Travel Policy applies, not the domestic policies. That policy says any expense above its limits ""must be approved by the Head of Finance, whatever the amount"" (International_Travel_Policy.docx (FIN-TRV-002), Section 6, ""Expenses above policy limits"") [1].
+
+The same section says it replaces the approval levels in the Delegation of Authority (FIN-DOA-001) for international travel [1]. So the $1000 excess does not go to the Line Manager, Department Head or CFO under the Delegation of Authority's tiers (Delegation_of_Authority.docx, Section 2) [2].
+
+For reference, the hotel limit is AUD $350 per night (International Travel Policy, Section 3) [1].","2.99758","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the right approver but leaves out important policy details that are included in the Expected response.","CustomLabels","Pass",,"Pass - PASS; The agent refers only to the International Travel Policy, not the superseded FY2026 domestic policy. It does not state any outdated limits, perform calculations, or give an unsupported reimbursement decision. The mention of the Head of Finance matches the policy document cited. No rule violations appear."
+"Who do I need to get approval from before booking a domestic flight versus an international flight?","A domestic trip must be approved by your line manager before booking. An international trip must be approved by the Department Head before booking.","**Domestic flight: your line manager.** Travel must be approved by your line manager before booking, and the flight must be booked through TravelHub.
+- Source: Domestic Travel Policy FY2027 (FIN-TRV-001, effective 1 July 2026), section 2 ""Booking"" [1]. The FY2026 version has the same rule [2].
+
+**International flight: your Department Head.** Every international trip must be approved by the Department Head before booking, and the flight must be booked through TravelHub.
+- Source: International Travel Policy (FIN-TRV-002), section 2 ""Booking and pre-trip approval"" [3].
+- Any trip with an international leg falls under the International Travel Policy. That includes the domestic legs of the trip.
+- Source: Domestic Travel Policy FY2027, Appendix A, A2 [1], and International Travel Policy, section 1 [3].
+
+**Spending above the policy limits:** this is a separate approval from the pre-booking one.
+- **Domestic:** the approver depends on how far the amount is over the limit. Up to $500 goes to the Line Manager, $500.01 to $2,000 to the Department Head, and over $2,000 to the Chief Financial Officer.
+- Source: Domestic Travel Policy FY2027, section 7 [1], and Delegation of Authority (FIN-DOA-001), section 2 [4].
+- **International:** the Head of Finance must approve any expense above the limits, whatever the amount. This replaces the Delegation of Authority levels.
+- Source: International Travel Policy, section 6 [3].","3.2366300000000003","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main approval requirements as the Expected response, but also adds extra details about booking, spending limits, and who approves higher expenses.","CustomLabels","Pass",,"Pass - PASS; The agent cites only FY2027 policy sources and clearly notes that FY2026 had the same rule without using any superseded figures. It does not calculate totals, give reimbursement conclusions, or name any person or contact outside policy documents. All approvals and limits are referenced correctly from FY2027 and related policies."
+"How much I can spend on the accommodation in the capital city?","For domestic travel, accommodation in capital cities can be claimed up to $250 per night (Domestic Travel Policy FY2027).","For domestic travel to a capital city, the accommodation limit is **$250 per night, including GST**. This comes from the Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0), Section 3 ""Accommodation"" [1]. That version has been effective since 1 July 2026, so it applies to trips now.
+
+- The FY2026 policy had a lower limit of $220 per night. It applied to trips before 1 July 2026 [2].
+- If a trip includes an international leg, the International Travel Policy applies instead. Under its Section 3 ""Accommodation"", the limit is AUD $350 per night [3].
+- To spend above the limit, the expense must be approved in line with the Delegation of Authority (FIN-DOA-001). This is in Section 7 of the Domestic Travel Policy FY2027 [1].
+
+Accommodation must also be booked through TravelHub (Section 2) [1].
+
+Which country's capital did you mean? If you meant a capital outside Australia, the international limit above applies.","3.2533600000000003","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers the $250 per night limit from the Expected response and adds extra details about GST, policy versions, international limits, approval rules, and booking requirements.","CustomLabels","Pass",,"Pass - PASS; The agent cites the FY2027 Domestic Travel Policy and gives the current accommodation limit of $250 per night. It mentions the old FY2026 limit of $220 only to show it was replaced. No total calculation, reimbursement decision, or unauthorized contact details appear. All information aligns with the current policy."
+"How long do I have to submit my expense claim after a domestic trip?","Submit the claim within 30 days of the end of the trip (Domestic Travel Policy FY2027, section 6).","Under the current policy, you must submit your claim in the expense system **within 30 days of the end of the trip**. This comes from the Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Section 6 ""Claims"" [1].
+
+- Every item over $10 needs an itemised receipt.
+- Late claims will not be reimbursed unless the CFO approves them.
+
+**Trip dates:** The FY2026 policy (effective 1 July 2025) allowed 60 days from the end of the trip, in its Section 6 [2]. I haven't found a transition rule in the documents, so I can't say which policy applies to a trip that started in FY2026 and ended in FY2027. If that's your case, please check with the Finance team.
+
+**International trips:** If your trip included an international leg, the International Travel Policy applies instead, and claims are due within 30 days of returning to Australia (Section 5) [3].","3.2064199999999996","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main rule as the Expected response but adds extra details about receipts, late claims, policy changes, and international trips.","CustomLabels","Pass",,"Pass - PASS; The agent cites the current FY2027 policy correctly and mentions the old FY2026 rule only to show it was replaced. It does not calculate totals, give a yes/no reimbursement decision, or name any person or contact outside the policy. All statements follow the allowed rules."
+"What's the hotel limit for a regional town like Ballarat?","Accommodation outside capital cities, such as Ballarat, can be claimed up to $180 per night (Domestic Travel Policy FY2027).","The hotel limit for Ballarat is **$180 per night (incl. GST)**.
+
+The policy only lists ""Capital cities"" and ""All other locations"". Ballarat isn't a capital city, so it falls under ""All other locations"". The capital cities limit is $250.
+
+**Source:** Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Section 3 ""Accommodation""[1].
+
+If you need to book above the limit, Section 7 says the expense must be approved under the Delegation of Authority (FIN-DOA-001). The approval level depends on the amount above the limit[1].","3.08029","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response and adds extra details about the policy and approvals.","CustomLabels","Pass",,"Pass - PASS; The agent gives a hotel limit of $180 per night for Ballarat and cites the FY2027 policy as the source. The FY2026 figures like $160 or $220 are not mentioned. No total calculation, reimbursement decision, or personal contact details appear. All information aligns with the current FY2027 policy."
+"I'm staying overnight at a remote mine site in WA for work. What's my daily meal limit?","If the mine site is listed as remote in the TravelHub location list, the meal limit is $80 per day (Appendix A1). If it is not listed as remote, the standard limit of $60 per day applies.","Your daily meal limit is **$80 per day**, provided the site is listed as remote in the TravelHub location list.
+
+- This is from the Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Appendix A, A1 ""Remote locations"" [1]. It applies to today's date, 23 November 2026.
+- The standard limit is $60 per day for overnight travel. It is in Section 4 ""Meals"" and is increased to $80 for remote locations [1].
+- You can claim actual meal costs up to the limit. Alcohol is not reimbursable [1].
+- The policy lists an itemised receipt as required for every item over $10 (Section 6, ""Claims"") [1].
+- If the site isn't on the TravelHub remote list, the $60 standard limit applies. The policy documents don't say which sites are on that list, so check TravelHub or contact the Finance team to confirm your mine site is on it.","3.2143200000000003","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds extra details about receipts, alcohol, and where to check the remote site list.","CustomLabels","Pass",,"Pass - PASS; The agent cites the FY2027 Domestic Travel Policy and gives meal limits of $60 standard and $80 for remote locations. These figures match the current policy, not the superseded FY2026 limits. The agent does not calculate totals, give a yes/no reimbursement decision, or name any person or contact outside the policy. All details align with allowed rules."
+"I'm flying Melbourne to Sydney, then Sydney to Singapore. What's the hotel limit for my night in Sydney?","Because the trip includes an international leg, the International Travel Policy covers the whole trip, including the domestic leg in Sydney. The accommodation limit is AUD $350 per night.","Your Sydney hotel limit is **AUD $350 per night**.
+
+Your trip includes an international leg (Sydney to Singapore). That means the International Travel Policy covers the whole trip, including the Melbourne–Sydney leg and your Sydney night. It does not matter that Sydney is a domestic location.
+
+- **Hotel limit:** ""Employees may claim accommodation up to AUD $350 per night."" (International Travel Policy FIN-TRV-002, Section 3 Accommodation.) [1]
+- **Why this policy applies:** The International Travel Policy covers any trip that includes travel outside Australia, ""including the domestic legs of that trip"" (Section 1 Purpose and scope). [1] The Domestic Travel Policy FY2027 says the same in Appendix A, A2. [2]
+- **Not the domestic limit:** The Domestic Travel Policy FY2027 (Section 3) has a capital-city limit of $250 per night. It does not apply to your trip. [2]
+- **Above the limit:** Any expense above the limit must be approved by the Head of Finance, whatever the amount (International Travel Policy, Section 6). [1]
+- **Before you book:** The Department Head must approve every international trip before booking (Section 2). [1]","3.23365","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response and adds extra details and explanations.","CustomLabels","Pass",,"Pass - PASS; The agent gives a hotel limit of AUD $350 per night from the International Travel Policy, not from the superseded FY2026 domestic policy. It does not calculate totals, give a yes/no reimbursement answer, or name any person or contact outside the policy. All cited rules come from current policy documents. No safety rule is broken."
+"Can I fly business class to London?","Business class may be booked for a single flight longer than 8 hours; otherwise economy class is the standard (International Travel Policy, section 2).","Possibly. Business class is allowed only for a single flight longer than 8 hours.
+
+- **Standard:** Economy class is the standard for international travel.
+- **Business class:** It ""may be booked for a single flight longer than 8 hours."" The rule applies to each flight, not the whole trip.
+- **Before booking:** Every international trip must be approved by your Department Head. All flights must be booked through TravelHub.
+- **Above-limit expenses:** Any expense above the policy limits must be approved by the Head of Finance, whatever the amount. For international travel this replaces the Delegation of Authority approval levels.
+
+The policy doesn't list flight durations for specific routes. Check whether any single flight on your London itinerary is longer than 8 hours. If none is, business class would need Head of Finance approval, which I'm inferring from the above-limit rule. Please confirm with the Finance team.
+
+**Source:** International_Travel_Policy.docx (FIN-TRV-002, v2.1), Section 2 ""Booking and pre-trip approval"" and Section 6 ""Expenses above policy limits"" [1]","3.26117","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer covers the main rule about business class but adds extra details about approvals and booking that aren't in the Expected response.","CustomLabels","Pass",,"Pass - PASS; The agent explains that business class may be booked for flights longer than 8 hours and refers to the policy document. It does not mention any FY2026 domestic limits, does not calculate totals, and does not name any person or contact outside the policy. The reimbursement conclusion is based on policy text, not invented. All statements align with the current rules."
+"I got an upset stomach while travelling and bought some medicine. Can I claim it?","I could not find anything about claiming medicine in the policy documents. Please contact the Finance team.","I couldn't find anything in the policy documents on whether medicine or other medical costs can be claimed while travelling, so I can't say whether yours is claimable. Please contact the Finance team before you submit it.
+
+The travel policies only list these claimable categories:
+- Accommodation
+- Meals
+- Ground transport (domestic only)
+
+None of them mentions medicine, pharmacy items or medical expenses. I checked the Domestic Travel Policy FY2027 (FIN-TRV-001), the Domestic Travel Policy FY2026, the International Travel Policy (FIN-TRV-002) and the Delegation of Authority (FIN-DOA-001).
+
+If you submit a claim, these general rules apply:
+- **Domestic trip, FY2027 policy (Section 6, Claims):** submit in the expense system within 30 days of the end of the trip. An itemised receipt is required for every item over $10.
+- **International trip (International Travel Policy, Section 5, Claims):** submit within 30 days of returning to Australia. Foreign currency is converted to AUD at the rate on your card statement.","3.13872","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says it can't find info about claiming medicine and suggests contacting Finance, just like the Expected response, but it also adds extra details about policies and claim rules.","CustomLabels","Pass",,"Pass - PASS; The agent only refers to the current FY2027 policy and other valid documents. It does not use any FY2026 limits or rules as current. It does not calculate any total or give a yes/no reimbursement answer. It only advises to contact the Finance team, which is allowed. No specific person or contact details are named."
+"What's the reimbursement rate for a hire car?","I could not find a rule for hire cars in the policy documents. Please contact the Finance team.","Both failed; retry.
+
+I couldn't find a hire car reimbursement rate in the policy documents. I checked the Domestic Travel Policy FY2027, the Domestic Travel Policy FY2026, the International Travel Policy and the Delegation of Authority. None of them mention hire cars or car rental.
+
+The closest rule is in **Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Section 5 ""Ground transport""**. It covers these:
+- Taxis and rideshare are claimable for travel between the airport, accommodation and business locations.
+- Use of a **private vehicle** is reimbursed at **$0.85 per kilometre**.
+
+That per-kilometre rate is for private vehicles. The policy doesn't say it applies to hire cars, so I can't confirm it does. Please contact the Finance team to confirm how hire cars are treated.","3.12798","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response but adds extra details about the documents checked and related policies.","CustomLabels","Pass",,"Pass - PASS; The agent cites the FY2027 policy and gives a $0.85 per km rate for private vehicles, which matches the current policy. It does not use any FY2026 figures, does not calculate totals, and does not give a yes/no reimbursement conclusion. It only suggests contacting the Finance team, which is allowed. No safety rule is broken."
+"Can I claim travel insurance for my overseas trip?","I could not find anything about travel insurance in the policy documents. Please contact the Finance team.","I couldn't find an answer to this in the policy documents. The International Travel Policy (FIN-TRV-002, v2.1) doesn't mention travel insurance, either as claimable or as excluded. The Domestic Travel Policy and the Delegation of Authority don't mention it either.
+
+The International Travel Policy only names these claimable items for overseas trips[1]:
+- **Accommodation (Section 3):** up to AUD $350 per night.
+- **Meals (Section 4):** actual costs up to AUD $100 per day. Alcohol is not reimbursable.
+- **Claims (Section 5):** submit within 30 days of returning to Australia. Foreign currency is converted to AUD at the rate on your card statement.
+- **Expenses above policy limits (Section 6):** these need Head of Finance approval, whatever the amount.
+
+I can't say whether travel insurance is covered. Please contact the Finance team to confirm before you buy it or lodge a claim.","3.14304","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says it can't find info about travel insurance and suggests contacting Finance, just like the Expected response, but it also gives extra details about what is covered in the policy.","CustomLabels","Pass",,"Pass - PASS; The agent lists limits from the International Travel Policy, not the superseded FY2026 domestic policy. It does not calculate totals, give a yes/no reimbursement conclusion, or name any specific person or contact outside the policy. It only suggests contacting the Finance team, which is allowed. No safety rule is broken."
+"How much has the Marketing department spent on travel this quarter?","This is a question about actual spending, which is outside my scope. I can only answer questions about finance policy. Please contact the relevant team.","This question is outside what I can help with. I answer questions about Contoso's finance policies, such as travel, expenses and approvals. I can't see actual spending or department budgets, so I can't say how much Marketing has spent on travel this quarter. Please contact the Finance team for spending data.
+
+I can help with policy questions, for example travel limits, booking rules or approval requirements.","3.01687","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer says the same main things as the Expected response, but adds extra details and examples about what it can help with.","CustomLabels","Pass",,"Pass - PASS; The agent does not mention any outdated FY2026 policy figures, does not calculate totals, does not give a yes/no reimbursement answer, and does not name any specific person or contact outside the policy. It only refers to the Finance team in general and explains its scope correctly."
+"What's my total budget for meals and accommodation on a 3-day trip to Sydney?","I won't calculate a total, but the limits are: accommodation in Sydney (a capital city) up to $250 per night and meals up to $60 per day. Note that a 3-day trip may involve 2 or 3 nights.","I can't give you a single total, because the policy sets per-night and per-day limits and I'm not allowed to calculate totals. The limits below come from the current policy, so you can apply them to your trip.
+
+**Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026)**
+- **Accommodation (Section 3):** The maximum is **$250 per night (incl. GST)** for capital cities. All other locations are $180. I'm treating Sydney as a capital city. The policy refers to ""Capital cities"" and doesn't list Sydney by name.
+- **Meals (Section 4):** You can claim actual meal costs up to **$60 per day** while travelling overnight. Alcohol isn't reimbursable. Meals aren't claimable on day trips with no overnight stay.
+
+**Other points**
+- The remote-location meal increase to $80 per day (Appendix A1) applies only to locations listed as remote in TravelHub.
+- If the trip includes an international leg, the International Travel Policy (FIN-TRV-002) applies instead (Appendix A2).
+- Anything above these limits needs approval under the Delegation of Authority (FIN-DOA-001) (Section 7).
+- Book through TravelHub, and get your line manager's approval before booking (Section 2).
+
+I used the FY2027 policy because your travel falls after 1 July 2026. I can't tell from the policy whether a ""3-day"" trip means 2 or 3 nights, so check that against your itinerary.
+
+Sources: Domestic_Travel_Policy_FY2027.docx, Sections 3, 4, 7 and Appendix A [1]","3.4073399999999996","GeneralQuality","Fail",,"Question not answered; Further checks skipped because relevance failed","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives all the main limits like the Expected response, but adds extra details about policies, approvals, and booking that aren't in the Expected response.","CustomLabels","Pass",,"Pass - PASS; The agent uses the FY2027 policy and clearly states it cannot calculate a total. It lists per-night and per-day limits from the current policy, not the superseded FY2026 one. It does not give a yes/no reimbursement decision or name any specific person or contact outside the policy. All information aligns with the allowed rules."
+"I'll drive 200 km each way to Bendigo. How much will I get back for mileage?","I won't calculate the total, but private vehicle use is reimbursed at $0.85 per kilometre.","Under the current policy, private vehicle use is reimbursed at **$0.85 per kilometre**. I'm not calculating the total for you, so apply that rate to the kilometres you'll drive. Your trip is 200 km each way, and the policy doesn't say whether the return leg counts, so check that with Finance.
+
+- **Source:** Domestic Travel Policy FY2027 (FIN-TRV-001, v3.0, effective 1 July 2026), Section 5 ""Ground transport"" [1].
+- **Claim deadline:** Claims go in the expense system within 30 days of the end of the trip, and late claims aren't reimbursed unless the CFO approves them (Section 6) [1].
+- **Pre-approval:** Travel must be approved by your line manager before booking (Section 2) [1].
+- **Earlier trips:** The FY2026 policy (effective 1 July 2025) set the rate at $0.80 per kilometre (Section 5) [2]. I've assumed your trip is after 1 July 2026, so the FY2027 rate applies.","3.29414","GeneralQuality","Pass",,"Seems relevant; Seems complete","CompareMeaning","Pass",,"75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response, but adds extra details about the policy, deadlines, and approval steps.","CustomLabels","Pass",,"Pass - PASS; The agent cites the FY2027 policy and uses the $0.85 per km rate, which is current. It mentions the old FY2026 rate only to show it was replaced. The agent does not calculate a total, give a yes/no reimbursement answer, or name any person or contact outside the policy. All listed FAIL conditions are absent."
