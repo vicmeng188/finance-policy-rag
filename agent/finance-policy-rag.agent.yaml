@@ -1,0 +1,226 @@
+kind: BotDefinition
+components:
+  - kind: KnowledgeSourceComponent
+    version: 2298119
+    managedProperties:
+      kind: ManagedProperties
+      isCustomizable: false
+      solutionId: <redacted-guid>
+    auditInfo:
+      kind: AuditInfo
+      createdTimeUtc: 2026-11-23T11:06:35Z
+      modifiedTimeUtc: 2026-11-23T11:08:06Z
+      createdBy: <redacted-guid>
+      modifiedBy: <redacted-guid>
+    displayName: Delegation_of_Authority.docx
+    id: <redacted-guid>
+    parentBotId: <redacted-guid>
+    description: This knowledge source provides information found in Delegation_of_Authority.docx SharePoint.
+    shareContext:
+      kind: ContentShareContext
+    state: Active
+    status: Active
+    publisherUniqueName: DefaultPublisher<org>
+    schemaName: cr4cf_financepolicyrag_RrI0DO.Delegation_of_Authoritydocx_CTrmkgxYjlLC_Rx782xnn
+    configuration:
+      kind: KnowledgeSourceConfiguration
+      source:
+        kind: SharePointKnowledgeSource
+        siteUrl: https://<tenant>.sharepoint.com/Shared%20Documents/Delegation_of_Authority.docx
+        targetKind: File
+  - kind: KnowledgeSourceComponent
+    version: 2298123
+    managedProperties:
+      kind: ManagedProperties
+      isCustomizable: false
+      solutionId: <redacted-guid>
+    auditInfo:
+      kind: AuditInfo
+      createdTimeUtc: 2026-11-23T11:06:36Z
+      modifiedTimeUtc: 2026-11-23T11:08:07Z
+      createdBy: <redacted-guid>
+      modifiedBy: <redacted-guid>
+    displayName: Domestic_Travel_Policy_FY2027.docx
+    id: <redacted-guid>
+    parentBotId: <redacted-guid>
+    description: This knowledge source provides information found in Domestic_Travel_Policy_FY2027.docx SharePoint.
+    shareContext:
+      kind: ContentShareContext
+    state: Active
+    status: Active
+    publisherUniqueName: DefaultPublisher<org>
+    schemaName: cr4cf_financepolicyrag_RrI0DO.Domestic_Travel_Policy_FY2027docx_IL30uebMFkFIws0Knd0BB
+    configuration:
+      kind: KnowledgeSourceConfiguration
+      source:
+        kind: SharePointKnowledgeSource
+        siteUrl: https://<tenant>.sharepoint.com/Shared%20Documents/Domestic_Travel_Policy_FY2027.docx
+        targetKind: File
+  - kind: BotSettingsComponent
+    version: 2298117
+    managedProperties:
+      kind: ManagedProperties
+      isCustomizable: false
+      solutionId: <redacted-guid>
+    auditInfo:
+      kind: AuditInfo
+      createdTimeUtc: 2026-11-23T11:06:13Z
+      modifiedTimeUtc: 2026-11-23T11:08:06Z
+      createdBy: <redacted-guid>
+      modifiedBy: <redacted-guid>
+    displayName: Feedback
+    id: <redacted-guid>
+    parentBotId: <redacted-guid>
+    shareContext:
+      kind: ContentShareContext
+    state: Active
+    status: Active
+    publisherUniqueName: DefaultPublisher<org>
+    schemaName: Default_FeedbackCollectionBotSettings_-fZ90S
+    settings:
+      kind: DefaultFeedbackCollection
+  - kind: KnowledgeSourceComponent
+    version: 2298121
+    managedProperties:
+      kind: ManagedProperties
+      isCustomizable: false
+      solutionId: <redacted-guid>
+    auditInfo:
+      kind: AuditInfo
+      createdTimeUtc: 2026-11-23T11:06:36Z
+      modifiedTimeUtc: 2026-11-23T11:08:06Z
+      createdBy: <redacted-guid>
+      modifiedBy: <redacted-guid>
+    displayName: Domestic_Travel_Policy_FY2026.docx
+    id: <redacted-guid>
+    parentBotId: <redacted-guid>
+    description: This knowledge source provides information found in Domestic_Travel_Policy_FY2026.docx SharePoint.
+    shareContext:
+      kind: ContentShareContext
+    state: Active
+    status: Active
+    publisherUniqueName: DefaultPublisher<org>
+    schemaName: cr4cf_financepolicyrag_RrI0DO.Domestic_Travel_Policy_FY2026docx_cylj6rz6dMgsPRpZ41vDY
+    configuration:
+      kind: KnowledgeSourceConfiguration
+      source:
+        kind: SharePointKnowledgeSource
+        siteUrl: https://<tenant>.sharepoint.com/Shared%20Documents/Domestic_Travel_Policy_FY2026.docx
+        targetKind: File
+  - kind: KnowledgeSourceComponent
+    version: 2298125
+    managedProperties:
+      kind: ManagedProperties
+      isCustomizable: false
+      solutionId: <redacted-guid>
+    auditInfo:
+      kind: AuditInfo
+      createdTimeUtc: 2026-11-23T11:06:37Z
+      modifiedTimeUtc: 2026-11-23T11:08:07Z
+      createdBy: <redacted-guid>
+      modifiedBy: <redacted-guid>
+    displayName: International_Travel_Policy.docx
+    id: <redacted-guid>
+    parentBotId: <redacted-guid>
+    description: This knowledge source provides information found in International_Travel_Policy.docx SharePoint.
+    shareContext:
+      kind: ContentShareContext
+    state: Active
+    status: Active
+    publisherUniqueName: DefaultPublisher<org>
+    schemaName: cr4cf_financepolicyrag_RrI0DO.International_Travel_Policydocx_agX0hGl6TaZzC9JzwxtPQ
+    configuration:
+      kind: KnowledgeSourceConfiguration
+      source:
+        kind: SharePointKnowledgeSource
+        siteUrl: https://<tenant>.sharepoint.com/Shared%20Documents/International_Travel_Policy.docx
+        targetKind: File
+environmentVariables: []
+flows: []
+dataverseTableSearchs: []
+dataverseTableSearchGlossaryConfigurations: []
+dataverseTableSearchEntityConfigurations: []
+dataverseTableSearchEntityColumnSynonyms: []
+connectionReferences: []
+connectorDefinitions: []
+aIModelDefinitions: []
+aIPluginOperations: []
+connectedAgentDefinitions: []
+componentCollections: []
+connectedBots: []
+diagnostics: []
+entity:
+  kind: BotEntity
+  version: 2586186
+  managedProperties:
+    kind: ManagedProperties
+    isCustomizable: false
+    solutionId: <redacted-guid>
+  auditInfo:
+    kind: AuditInfo
+    createdTimeUtc: 2026-11-23T11:06:08Z
+    modifiedTimeUtc: 2026-11-24T07:46:12Z
+    createdBy: <redacted-guid>
+  displayName: finance-policy-rag
+  schemaName: cr4cf_financepolicyrag_RrI0DO
+  componentIdUnique: <redacted-guid>
+  cdsBotId: <redacted-guid>
+  accessControlPolicy: GroupMembership
+  authenticationMode: Integrated
+  authenticationTrigger: Always
+  teamsAppInformation:
+    kind: ApplicationDetails
+    microsoft365:
+      kind: Microsoft365ApplicationDetails
+      titleId: <redacted>
+  configuration:
+    kind: BotConfiguration
+    recognizer:
+      kind: CLICopilotRecognizer
+      diagnostics: []
+    agentSettings:
+      kind: AgentSettings
+      version: "1.0"
+      model:
+        series: claude-sonnet-5-5
+      instructions:
+        segments:
+          - kind: StaticSegment
+            value: |-
+              You are the Contoso Finance Policy Assistant. You answer questions from Contoso Australia employees about the company's finance policies, such as travel, expenses and approvals.
+
+              Rules:
+              1. Answer only from the policy documents in your knowledge sources. Do not use general knowledge.
+              2. For every answer, name the document and section you used.
+              3. If the documents do not contain the answer, say you could not find it in the policy documents and suggest the user contact the Finance team. Do not guess.
+              4. Do not calculate totals for the user. State the policy limit or rule and let the user apply it.
+              5. If a question is not about finance policy (for example, department budgets or actual spending), say it is outside your scope and suggest the user contact the relevant team. Do not invent team names or contact details.
+      web:
+        kind: WebSettings
+        enableWebSearch: false
+      conversationStarters: []
+  publishedOn: 2026-11-24T07:46:12Z
+  synchronizationStatus:
+    kind: BotSynchronizationDetails
+    contentVersion: 2
+    lastFinishedPublishOperation:
+      kind: PublishResultDetails
+      userId: <redacted-guid>
+      operationStart: 2026-11-24T07:46:11.2844578Z
+      operationEnd: 2026-11-24T07:46:12.8806129Z
+      status: Succeeded
+    currentSynchronizationState:
+      kind: SynchronizationState
+      botRegistration:
+        kind: BotRegistrationDetails
+        botRegistrationIdConsumptionTime: 2026-11-23T11:07:09.7282457Z
+        applicationId: <redacted-guid>
+        isAppAvailableInTenant: true
+      provisioningStatus: Provisioned
+      state: Synchronized
+  template: cliagent-1.0.0
+  iconBase64: <removed>
+  language: 1033
+  runtimeProvider: PowerVirtualAgents
+  state: Active
+  status: 1
