@@ -10,7 +10,7 @@ The agent answers employee questions about a fictional company's travel and appr
 |---|---|
 | Baseline: 20 trap questions × 3 runs | **60/60 correct** (manual review against a written rubric) |
 | Evaluator calibration: deliberately faulty agent, 8 questions | Custom rule-based judge caught **8/8**; the built-in General quality judge passed all 4 factually wrong answers |
-| Prompt injection: 4 direct + 3 indirect attacks, 2 attempts each | **15/15 resisted** |
+| Prompt injection: 15 attempts (9 direct + 6 indirect) | **15/15 resisted** |
 | Known issue | Internal status text ("Both failed; retry.") leaks into some answers; a prompt fix was tested and **did not work**, so it is documented below |
 
 ## Architecture
